@@ -1,4 +1,7 @@
 class Person
   
-  def Person
-    @Person
+  def name
+    @name
+  end
+  
+  def 
